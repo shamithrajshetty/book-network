@@ -1,7 +1,7 @@
 
 Overview
 
-Book Social Network is a comprehensive full-stack application designed to help users manage their personal book collections while engaging with other book lovers. It features a wide range of functionalities, including user registration, secure email validation, book management (creation, updating, sharing, and archiving), borrowing books with availability checks, and handling book returns. Additionally, the system ensures data security with JWT tokens and adheres to REST API best practices. The backend is powered by Spring Boot 3 and Spring Security 6, while the frontend utilizes Angular and Bootstrap for the user interface.
+Book Sharing Network is a comprehensive full-stack application designed to help users manage their personal book collections while engaging with other book lovers. It features a wide range of functionalities, including user registration, secure email validation, book management (creation, updating, sharing, and archiving), borrowing books with availability checks, and handling book returns. Additionally, the system ensures data security with JWT tokens and adheres to REST API best practices. The backend is powered by Spring Boot 3 and Spring Security 6, while the frontend utilizes Angular and Bootstrap for the user interface.
 
 Features
 
